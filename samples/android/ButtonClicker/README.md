@@ -15,7 +15,7 @@ To integrate Nuggeta you inside ButtonClicker you first have done the following 
 
 <h2>About the sample </h2>
 The sample ButtonClicker demonstrate how to send and received messages via Google Game Services .
-If you have look at the MainActivity class, you have notice that you have to deal with bytes arrays to exchange datas:
+If you have look at the MainActivity class, you have notice that you have to deal with bytes arrays to exchange data:
 In fact, in this sample there is three type of messages :
 
 - a start message : represented by  bytes[0] = 'S'
@@ -24,8 +24,8 @@ In fact, in this sample there is three type of messages :
 
 We can understand it for a simple sample like ButtonClicker, but in real games it may become really complicated... 
 
-With Nuggeta you won't have do deal with bytes , we do the painfull job for you.
-Instead you will have to deal with your data object that you define in the Nuggeta Developer Site and download in your API.
+With Nuggeta you won't have do deal with bytes, we do the painfull job for you.
+Instead you have to deal with your data objects that you have defined in the Nuggeta Developer Site and download it in your API.
 
 <h2>How to run the sample with Nuggeta</h2>
 
