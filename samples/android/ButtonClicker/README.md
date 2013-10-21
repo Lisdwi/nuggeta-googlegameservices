@@ -12,6 +12,9 @@ To integrate Nuggeta inside ButtonClicker you need first to complete the followi
 
 2. Create a Developer Account on Nuggeta : http://developer.nuggeta.com
 
+3. Read about getting started with Google Game Services and Nuggeta : http://developer.nuggeta.com/#!documentation/client-setup/google-game-services
+
+
 
 <h2>About the sample </h2>
 The sample ButtonClicker demonstrates how to send and received real-time messages via Google Game Services.
