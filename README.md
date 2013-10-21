@@ -10,11 +10,11 @@ Nuggeta is a crossplatform, multiplayer and social developement cloud services p
 
 <h2>Why integrate Nuggeta in my Google Game Service Project?</h2>
 
-If you have already run samples of Google Game Services, you have probably notice that you have to deal with bytes arrays to send and receive data over Google Game Services. 
+If you have already used the sample games provided with Google Game Services, you have probably noticed that you have to deal with bytes arrays to send and receive data over Google Game Services. 
 
 This can be very hard to use and maintain in a real game with a lot of different data to exchange.
 
-Fortunately , Nuggeta is offering you a powerful and simple API to deal with your custom objects instead of bytes. Nuggeta does the painful work for you.
+Fortunately, Nuggeta is offering you a powerful and simple API to deal with your custom objects instead of bytes. Nuggeta does the painful work for you.
 
 
 <h2>How to integrate Nuggeta?</h2>
